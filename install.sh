@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# TEST
 set -e
 
 # Ensure we're in the script's directory
